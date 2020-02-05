@@ -1,0 +1,39 @@
+a:link {
+  color: red;
+}
+
+a:hover {
+  color: yellow;
+}
+
+a:visited {
+  color: green;
+}
+
+header {
+  color: #F82525;
+  background-color: #C8C8FD;
+}
+
+main {
+  color: #FFFFFF;
+  background-color: #FC6E6E;
+}
+
+#divexample {
+  color: #99FF32;
+  background-color: #000000;
+}
+
+#header {
+  color: #9124FD;
+  background-color: #A0CEFD;
+}
+
+nav{
+  background-color: #B3FEB3;
+}
+
+.spanstyle {
+  color: #0505FF;
+}
