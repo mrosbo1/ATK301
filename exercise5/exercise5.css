@@ -1,0 +1,46 @@
+h1 {
+  color: white;
+}
+
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+#header {
+  background-color: #9090F7;
+}
+
+h2 {
+  color: blue;
+}
+
+.spanstyle {
+  color: #FEA54D;
+}
+
+h3 {
+  background-color: yellow;
+}
+
+main {
+  color: red;
+}
+
+h4 {
+  color: yellow;
+  background-color: green;
+}
+
+#header4 {
+  background-color: #B7FFB7;
+}
+
+h5 {
+  color: purple;
+}
