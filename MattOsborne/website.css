@@ -133,7 +133,11 @@ img {
 
 
 #desc {
+<<<<<<< HEAD
   grid-column: 12 / span 3;
+=======
+  grid-column: span 12;
+>>>>>>> aaeee182ff8c9e9765eed64ce5667061b76c2446
   padding-left: 600px;
 }
 
@@ -147,11 +151,14 @@ img {
   display: inline-block;
 }
 
+<<<<<<< HEAD
 #graphics {
   grid-column: span 12;
   display: inline-block;
 }
 
+=======
+>>>>>>> aaeee182ff8c9e9765eed64ce5667061b76c2446
 
 h2 {
   text-align: left;
